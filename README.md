@@ -4,7 +4,7 @@
 - 🔭 Estou começando a minha carreira na programação com foco em back-end
 - 🌱 Estudando Java
 
-## Linguagens domino:
+## Linguagens que domino:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

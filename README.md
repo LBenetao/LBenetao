@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Leandro Benetão
 
 
-- 🔭 Hoje estou começando a minha carreira na programação com foco em back-end
-- 🌱 Estudando Java 
-- 💬
+- 🔭 Estou começando a minha carreira na programação com foco em back-end
+- 🌱 Estudando Java
 
 ## Linguagens domino:
 

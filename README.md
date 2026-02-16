@@ -3,7 +3,9 @@
 
 - 🔭 Hoje estou começando a minha carreira na programação com foco em back-end
 - 🌱 Estudando Java 
-- 💬 
+- 💬
+
+## Linguagens domino:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +16,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+  ## 
  
 <div> 
   <a href="https://www.youtube.com/@retrozoides" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

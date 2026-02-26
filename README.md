@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou começando a minha carreira na programação com foco em back-end
-- 🌱 Estudando Java
+- 🌱 Estudando Python
 
 ## Linguagens que domino:
 

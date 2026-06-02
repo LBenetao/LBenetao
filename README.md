@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou começando a minha carreira na programação com foco em Front-end
-- 🌱 Estudando HTML, CSS e Javascript
+- 🌱 Estudando SQL, HTML, CSS e Javascript
 
 ## Linguagens que domino:
 

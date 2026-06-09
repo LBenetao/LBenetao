@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Leandro Benetão
 
 
-- 🔭 Estou começando a minha carreira na programação com foco em Front-end
-- 🌱 Estudando SQL, HTML, CSS e Javascript
+- 🔭 Estou começando a minha carreira na programação com foco em Front-end e Dados
+- 🌱 Estudando Python, SQL, HTML, CSS e Javascript
 
 ## Linguagens que domino:
 
